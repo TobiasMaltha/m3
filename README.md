@@ -10,3 +10,7 @@ Link to Colab: https://colab.research.google.com/drive/1UzyrNF8QVWeDDKjYY3kd33ya
 Link to data on kaggle: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 The files in this repository:
+Stakeholder report as PDF
+Problem statement as PDF
+Ipynb file of the project
+Ipynb as PDF of the project
