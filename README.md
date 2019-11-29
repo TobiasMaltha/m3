@@ -1,4 +1,4 @@
-#SDS 2019 M3 Group Assignment
+## SDS 2019 M3 Group Assignment
 
 Group members: Jonas Røge Jepsen, Michael Bering Olesen and Tobias Maltha Christensen
 
