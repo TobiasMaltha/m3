@@ -18,3 +18,5 @@ Problem statement as PDF
 Ipynb file of the project
 
 Ipynb as PDF of the project
+
+Guide to getting the token API from kaggle
