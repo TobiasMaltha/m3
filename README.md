@@ -5,7 +5,7 @@ Group members: Jonas Røge Jepsen, Michael Bering Olesen and Tobias Maltha Chris
 We are working a with chest X-ray image dataset, and we have a classification case where we look to predict if the patient have "normal" lungs or have pneumonia.
 
 
-Link to Collab: XXXX
+Link to Colab: https://colab.research.google.com/drive/1UzyrNF8QVWeDDKjYY3kd33yaGmq4qf7a#scrollTo=8Cdcocf6BjpX
 
 Link to data on kaggle: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
